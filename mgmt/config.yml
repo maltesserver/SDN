@@ -1,0 +1,8 @@
+#Backup
+Backup-Host: "127.0.0.1"
+Folder: "/home/projects/sdn/backup"
+User: "root"
+Password: ""
+#GitLab Data
+Gitlab: "https://gitlab.realtox.network"
+Project: "SDN"

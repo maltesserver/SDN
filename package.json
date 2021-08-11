@@ -1,0 +1,22 @@
+{
+  "name": "SDN",
+  "version": "1.0.0",
+  "description": "Software-Defined Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sdn"
+  ],
+  "author": "Realtox",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "autoprefixer": "^9.6.0",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
