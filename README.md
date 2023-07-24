@@ -1,7 +1,7 @@
 # SDN
 ### SDN Managementsite
 
-[Hier](https://gitlab.realtox.network/itech-bs14/sdn/-/releases ) kann man alle Dateien als Release Downloaden.
+[Hier](https://github.com/maltesserver/SDN/archive/refs/tags/1337.zip) kann man alle Dateien als Release Downloaden.
 
 #### Funktionen: 
 
